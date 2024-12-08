@@ -1,0 +1,25 @@
+div{
+    border: 10px solid transparent;
+    border-image: url(./asset/image/proxy-image.jpeg) 110 stretch;
+    padding: 3px;
+    border-width: 60px;
+    margin-right: 450px;
+    color: rgb(168, 168, 240);
+    
+    
+    font-size: 20px;
+    box-sizing: border-box;
+}
+h1{
+    padding-left: 20%;
+    margin-left: 130px;
+    margin-right: 40px;
+    text-shadow: 2px 2px 2px black;
+    text-transform: capitalize;
+}
+p{
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    color: rgb(42, 42, 104);
+}
